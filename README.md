@@ -1,6 +1,6 @@
 ## Online Voting System
 A simple voting web application built with Jakarta Servlets, JSP, JDBC, and MySQL.
-![Voting System](Voting%20System.png)
+![Voting System](screenshots/Voting%20System.png)
 ## Features
 - Displays available subjects to vote for.
 - Lets a visitor submit one vote per browser session.
@@ -35,10 +35,10 @@ A simple voting web application built with Jakarta Servlets, JSP, JDBC, and MySQ
 This project is for educational use. The one-vote restriction is based on a browser session, not a verified person's identity. Votes are stored in MySQL, but the session-based restriction is not suitable for a real election.
 ## Screenshots
 ### Voting Page
-![Voting Page](Voting%20Page.png)
+![Voting Page](screenshots/Voting%20Page.png)
 
 ### Vote Confirmation
-![Vote Confirmation](Vote%20Confirmation.png)
+![Vote Confirmation](screenshots/Vote%20Confirmation.png)
 
 ### Results Page
-![Results Page](Results%20Page.png)
+![Results Page](screenshots/Results%20Page.png)
